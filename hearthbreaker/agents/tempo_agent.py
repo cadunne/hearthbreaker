@@ -1,6 +1,6 @@
 from hearthbreaker.agents.basic_agents import DoNothingAgent
 from hearthbreaker.agents.trade.possible_play import PlayMixin
-from hearthbreaker.agents.trade.trade import TradeMixin, AttackMixin
+from hearthbreaker.agents.trade.tempo import TradeMixin, AttackMixin
 from hearthbreaker.agents.trade.util import Util
 from hearthbreaker.tags.action import Damage
 from hearthbreaker.tags.status import ChangeAttack, ChangeHealth
@@ -102,7 +102,7 @@ class NullCard:
         return None
 
 
-class TradeAgent(TradeMixin, AttackMixin, PlayMixin, ChooseTargetMixin, DoNothingAgent):
+class TempoAgent(TradeMixin, AttackMixin, PlayMixin, ChooseTargetMixin, DoNothingAgent):
     def __init__(self):
         super().__init__()
         self.current_trade = None

@@ -38,6 +38,7 @@ def do_stuff():
         new_game = game.copy()
         try:
             new_game.start()
+            print("game_done")
         except Exception as e:
             print(json.dumps(new_game.__to_json__(), default=lambda o: o.__to_json__()))
             print(new_game._all_cards_played)
