@@ -39,6 +39,7 @@ def do_stuff():
         try:
             new_game.start()
             print("game_done")
+            print(new_game.players[0].hero.health, new_game.players[1].hero.health, "####")
         except Exception as e:
             print(json.dumps(new_game.__to_json__(), default=lambda o: o.__to_json__()))
             print(new_game._all_cards_played)
@@ -53,7 +54,7 @@ def do_stuff():
     deck2 = load_deck("example.hsdeck")
     game = Game([deck1, deck2], [RandomAgent(), RandomAgent()])
 
-    print(timeit.timeit(play_game, 'gc.enable()', number=100000))
+    print(timeit.timeit(play_game, 'gc.enable()', number=1))
 
 if __name__ == "__main__":
     do_stuff()
