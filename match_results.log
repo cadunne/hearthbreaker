@@ -1,0 +1,46 @@
+DEBUG:root:<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 2 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 3 wins
+	 ratio: 0.6666666666666666
+DEBUG:root:<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 3 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 2 wins
+	 ratio: 1.5
+DEBUG:root:<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 2 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 3 wins
+	 ratio: 0.6666666666666666
+DEBUG:root:<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 4 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 1 wins
+	 ratio: 4.0
+DEBUG:root:<class 'hearthbreaker.agents.tempo_agent.TempoAgent'> with deck rampDruid.hsdeck: 3 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 2 wins
+	 ratio: 1.5
+DEBUG:root:<class 'hearthbreaker.agents.tempo_agent.TempoAgent'> with deck rampDruid.hsdeck: 4 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 1 wins
+	 ratio: 4.0
+DEBUG:root:<class 'hearthbreaker.agents.tempo_agent.TempoAgent'> with deck valueMage.hsdeck: 1 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 4 wins
+	 ratio: 0.25
+DEBUG:root:<class 'hearthbreaker.agents.tempo_agent.TempoAgent'> with deck valueMage.hsdeck: 3 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 2 wins
+	 ratio: 1.5
+DEBUG:root:<class 'hearthbreaker.agents.control_agent.ControlAgent'> with deck rampDruid.hsdeck: 4 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 1 wins
+	 ratio: 4.0
+DEBUG:root:<class 'hearthbreaker.agents.control_agent.ControlAgent'> with deck rampDruid.hsdeck: 5 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 0 wins
+DEBUG:root:<class 'hearthbreaker.agents.control_agent.ControlAgent'> with deck valueMage.hsdeck: 2 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 3 wins
+	 ratio: 0.6666666666666666
+DEBUG:root:<class 'hearthbreaker.agents.control_agent.ControlAgent'> with deck valueMage.hsdeck: 3 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 2 wins
+	 ratio: 1.5
+DEBUG:root:<class 'hearthbreaker.agents.aggressive_agent.AggressiveAgent'> with deck rampDruid.hsdeck: 4 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 1 wins
+	 ratio: 4.0
+DEBUG:root:<class 'hearthbreaker.agents.aggressive_agent.AggressiveAgent'> with deck rampDruid.hsdeck: 5 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 0 wins
+DEBUG:root:<class 'hearthbreaker.agents.aggressive_agent.AggressiveAgent'> with deck valueMage.hsdeck: 2 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck rampDruid.hsdeck: 3 wins
+	 ratio: 0.6666666666666666
+DEBUG:root:<class 'hearthbreaker.agents.aggressive_agent.AggressiveAgent'> with deck valueMage.hsdeck: 4 wins
+	<class 'hearthbreaker.agents.basic_agents.RandomAgent'> with deck valueMage.hsdeck: 1 wins
+	 ratio: 4.0
