@@ -108,6 +108,9 @@ class TempoAgent(TradeMixin, AttackMixin, PlayMixin, ChooseTargetMixin, DoNothin
         self.current_trade = None
         self.last_card_played = NullCard()
 
+    def __str__(self):
+        return "TempoAgent"
+
     def do_turn(self, player):
         self.player = player
         self.play_cards(player)

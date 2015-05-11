@@ -193,6 +193,7 @@ class PossiblePlays(CoinPlays):
 
 
 class PlayMixin:
+
     def play_one_card(self, player):
         if len(player.minions) == 7:
             return
@@ -218,6 +219,11 @@ class PlayMixin:
             return card
 
     def play_cards(self, player):
-        card = self.play_one_card(player)
-        if card:
-            self.play_cards(player)
+        card = 1
+        count = 0
+        while(card and count < 5):
+            card = self.play_one_card(player)
+            count+= 1
+
+
+

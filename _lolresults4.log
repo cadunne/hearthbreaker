@@ -1,0 +1,124 @@
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 79 wins
+	RandomAgent with deck rampDruid.hsdeck: 21 wins
+	 ratio: 3.761904761904762
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 85 wins
+	RandomAgent with deck valueMage.hsdeck: 15 wins
+	 ratio: 5.666666666666667
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 69 wins
+	RandomAgent with deck zooLock.hsdeck: 30 wins
+	 ratio: 2.3
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 68 wins
+	RandomAgent with deck rampDruid.hsdeck: 31 wins
+	 ratio: 2.193548387096774
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 81 wins
+	RandomAgent with deck valueMage.hsdeck: 18 wins
+	 ratio: 4.5
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 67 wins
+	RandomAgent with deck zooLock.hsdeck: 30 wins
+	 ratio: 2.2333333333333334
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 98 wins
+	RandomAgent with deck rampDruid.hsdeck: 2 wins
+	 ratio: 49.0
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 98 wins
+	RandomAgent with deck valueMage.hsdeck: 2 wins
+	 ratio: 49.0
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 96 wins
+	RandomAgent with deck zooLock.hsdeck: 3 wins
+	 ratio: 32.0
+DEBUG:root:
+
+AggressiveAgent versus RandomAgent: 741 to 152 4.88
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 48 wins
+	TempoAgent with deck rampDruid.hsdeck: 52 wins
+	 ratio: 0.9230769230769231
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 65 wins
+	TempoAgent with deck valueMage.hsdeck: 31 wins
+	 ratio: 2.096774193548387
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 11 wins
+	TempoAgent with deck zooLock.hsdeck: 88 wins
+	 ratio: 0.125
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 40 wins
+	TempoAgent with deck rampDruid.hsdeck: 60 wins
+	 ratio: 0.6666666666666666
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 67 wins
+	TempoAgent with deck valueMage.hsdeck: 33 wins
+	 ratio: 2.0303030303030303
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 12 wins
+	TempoAgent with deck zooLock.hsdeck: 88 wins
+	 ratio: 0.13636363636363635
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 77 wins
+	TempoAgent with deck rampDruid.hsdeck: 22 wins
+	 ratio: 3.5
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 93 wins
+	TempoAgent with deck valueMage.hsdeck: 7 wins
+	 ratio: 13.285714285714286
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 53 wins
+	TempoAgent with deck zooLock.hsdeck: 46 wins
+	 ratio: 1.1521739130434783
+DEBUG:root:
+
+AggressiveAgent versus TempoAgent: 466 to 427 1.09
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 48 wins
+	ControlAgent with deck rampDruid.hsdeck: 52 wins
+	 ratio: 0.9230769230769231
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 65 wins
+	ControlAgent with deck valueMage.hsdeck: 35 wins
+	 ratio: 1.8571428571428572
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 17 wins
+	ControlAgent with deck zooLock.hsdeck: 81 wins
+	 ratio: 0.20987654320987653
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 52 wins
+	ControlAgent with deck rampDruid.hsdeck: 48 wins
+	 ratio: 1.0833333333333333
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 65 wins
+	ControlAgent with deck valueMage.hsdeck: 35 wins
+	 ratio: 1.8571428571428572
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 12 wins
+	ControlAgent with deck zooLock.hsdeck: 88 wins
+	 ratio: 0.13636363636363635
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 88 wins
+	ControlAgent with deck rampDruid.hsdeck: 11 wins
+	 ratio: 8.0
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 92 wins
+	ControlAgent with deck valueMage.hsdeck: 8 wins
+	 ratio: 11.5
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 42 wins
+	ControlAgent with deck zooLock.hsdeck: 54 wins
+	 ratio: 0.7777777777777778
+DEBUG:root:
+
+AggressiveAgent versus ControlAgent: 481 to 412 1.17
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 52 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 48 wins
+	 ratio: 1.0833333333333333
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 76 wins
+	AggressiveAgent with deck valueMage.hsdeck: 23 wins
+	 ratio: 3.3043478260869565
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 29 wins
+	AggressiveAgent with deck zooLock.hsdeck: 68 wins
+	 ratio: 0.4264705882352941
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 37 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 62 wins
+	 ratio: 0.5967741935483871
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 58 wins
+	AggressiveAgent with deck valueMage.hsdeck: 42 wins
+	 ratio: 1.380952380952381
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 6 wins
+	AggressiveAgent with deck zooLock.hsdeck: 94 wins
+	 ratio: 0.06382978723404255
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 82 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 17 wins
+	 ratio: 4.823529411764706
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 90 wins
+	AggressiveAgent with deck valueMage.hsdeck: 10 wins
+	 ratio: 9.0
+DEBUG:root:AggressiveAgent with deck zooLock.hsdeck: 45 wins
+	AggressiveAgent with deck zooLock.hsdeck: 54 wins
+	 ratio: 0.8333333333333334
+DEBUG:root:
+
+AggressiveAgent versus AggressiveAgent: 475 to 418 1.14
+

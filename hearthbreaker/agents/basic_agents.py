@@ -92,6 +92,9 @@ class RandomAgent(DoNothingAgent):
     def __init__(self):
         super().__init__()
 
+    def __str__(self):
+        return "RandomAgent"
+
     def do_card_check(self, cards):
         return [True, True, True, True]
 

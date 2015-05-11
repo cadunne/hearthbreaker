@@ -1,0 +1,496 @@
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 52 wins
+	RandomAgent with deck rampDruid.hsdeck: 47 wins
+	 ratio: 1.1063829787234043
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 78 wins
+	RandomAgent with deck valueMage.hsdeck: 22 wins
+	 ratio: 3.5454545454545454
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 79 wins
+	RandomAgent with deck spellWarlock.hsdeck: 16 wins
+	 ratio: 4.9375
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 36 wins
+	RandomAgent with deck rampDruid.hsdeck: 63 wins
+	 ratio: 0.5714285714285714
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 52 wins
+	RandomAgent with deck valueMage.hsdeck: 47 wins
+	 ratio: 1.1063829787234043
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 65 wins
+	RandomAgent with deck spellWarlock.hsdeck: 29 wins
+	 ratio: 2.2413793103448274
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 28 wins
+	RandomAgent with deck rampDruid.hsdeck: 67 wins
+	 ratio: 0.417910447761194
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 38 wins
+	RandomAgent with deck valueMage.hsdeck: 58 wins
+	 ratio: 0.6551724137931034
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 57 wins
+	RandomAgent with deck spellWarlock.hsdeck: 41 wins
+	 ratio: 1.3902439024390243
+DEBUG:root:
+
+RandomAgent versus RandomAgent: 485 to 390
+
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 17 wins
+	TempoAgent with deck rampDruid.hsdeck: 83 wins
+	 ratio: 0.20481927710843373
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 68 wins
+	TempoAgent with deck valueMage.hsdeck: 32 wins
+	 ratio: 2.125
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 50 wins
+	TempoAgent with deck spellWarlock.hsdeck: 48 wins
+	 ratio: 1.0416666666666667
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 17 wins
+	TempoAgent with deck rampDruid.hsdeck: 83 wins
+	 ratio: 0.20481927710843373
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 44 wins
+	TempoAgent with deck valueMage.hsdeck: 56 wins
+	 ratio: 0.7857142857142857
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 37 wins
+	TempoAgent with deck spellWarlock.hsdeck: 63 wins
+	 ratio: 0.5873015873015873
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 11 wins
+	TempoAgent with deck rampDruid.hsdeck: 88 wins
+	 ratio: 0.125
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 35 wins
+	TempoAgent with deck valueMage.hsdeck: 62 wins
+	 ratio: 0.5645161290322581
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 22 wins
+	TempoAgent with deck spellWarlock.hsdeck: 76 wins
+	 ratio: 0.2894736842105263
+DEBUG:root:
+
+RandomAgent versus TempoAgent: 301 to 591
+
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 26 wins
+	ControlAgent with deck rampDruid.hsdeck: 72 wins
+	 ratio: 0.3611111111111111
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 68 wins
+	ControlAgent with deck valueMage.hsdeck: 30 wins
+	 ratio: 2.2666666666666666
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 45 wins
+	ControlAgent with deck spellWarlock.hsdeck: 53 wins
+	 ratio: 0.8490566037735849
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 9 wins
+	ControlAgent with deck rampDruid.hsdeck: 91 wins
+	 ratio: 0.0989010989010989
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 55 wins
+	ControlAgent with deck valueMage.hsdeck: 45 wins
+	 ratio: 1.2222222222222223
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 44 wins
+	ControlAgent with deck spellWarlock.hsdeck: 54 wins
+	 ratio: 0.8148148148148148
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 9 wins
+	ControlAgent with deck rampDruid.hsdeck: 88 wins
+	 ratio: 0.10227272727272728
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 51 wins
+	ControlAgent with deck valueMage.hsdeck: 47 wins
+	 ratio: 1.0851063829787233
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 21 wins
+	ControlAgent with deck spellWarlock.hsdeck: 70 wins
+	 ratio: 0.3
+DEBUG:root:
+
+RandomAgent versus ControlAgent: 328 to 550
+
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 22 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 77 wins
+	 ratio: 0.2857142857142857
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 61 wins
+	AggressiveAgent with deck valueMage.hsdeck: 36 wins
+	 ratio: 1.6944444444444444
+DEBUG:root:RandomAgent with deck rampDruid.hsdeck: 45 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 52 wins
+	 ratio: 0.8653846153846154
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 11 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 89 wins
+	 ratio: 0.12359550561797752
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 45 wins
+	AggressiveAgent with deck valueMage.hsdeck: 55 wins
+	 ratio: 0.8181818181818182
+DEBUG:root:RandomAgent with deck valueMage.hsdeck: 25 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 71 wins
+	 ratio: 0.352112676056338
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 7 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 90 wins
+	 ratio: 0.07777777777777778
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 24 wins
+	AggressiveAgent with deck valueMage.hsdeck: 72 wins
+	 ratio: 0.3333333333333333
+DEBUG:root:RandomAgent with deck spellWarlock.hsdeck: 13 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 84 wins
+	 ratio: 0.15476190476190477
+DEBUG:root:
+
+RandomAgent versus AggressiveAgent: 253 to 626
+
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 82 wins
+	RandomAgent with deck rampDruid.hsdeck: 17 wins
+	 ratio: 4.823529411764706
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 85 wins
+	RandomAgent with deck valueMage.hsdeck: 15 wins
+	 ratio: 5.666666666666667
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 97 wins
+	RandomAgent with deck spellWarlock.hsdeck: 3 wins
+	 ratio: 32.333333333333336
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 36 wins
+	RandomAgent with deck rampDruid.hsdeck: 64 wins
+	 ratio: 0.5625
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 53 wins
+	RandomAgent with deck valueMage.hsdeck: 46 wins
+	 ratio: 1.1521739130434783
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 75 wins
+	RandomAgent with deck spellWarlock.hsdeck: 22 wins
+	 ratio: 3.409090909090909
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 65 wins
+	RandomAgent with deck rampDruid.hsdeck: 35 wins
+	 ratio: 1.8571428571428572
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 79 wins
+	RandomAgent with deck valueMage.hsdeck: 20 wins
+	 ratio: 3.95
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 91 wins
+	RandomAgent with deck spellWarlock.hsdeck: 6 wins
+	 ratio: 15.166666666666666
+DEBUG:root:
+
+TempoAgent versus RandomAgent: 663 to 228
+
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 44 wins
+	TempoAgent with deck rampDruid.hsdeck: 56 wins
+	 ratio: 0.7857142857142857
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 83 wins
+	TempoAgent with deck valueMage.hsdeck: 17 wins
+	 ratio: 4.882352941176471
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 73 wins
+	TempoAgent with deck spellWarlock.hsdeck: 25 wins
+	 ratio: 2.92
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 21 wins
+	TempoAgent with deck rampDruid.hsdeck: 79 wins
+	 ratio: 0.26582278481012656
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 54 wins
+	TempoAgent with deck valueMage.hsdeck: 44 wins
+	 ratio: 1.2272727272727273
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 49 wins
+	TempoAgent with deck spellWarlock.hsdeck: 48 wins
+	 ratio: 1.0208333333333333
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 37 wins
+	TempoAgent with deck rampDruid.hsdeck: 61 wins
+	 ratio: 0.6065573770491803
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 66 wins
+	TempoAgent with deck valueMage.hsdeck: 31 wins
+	 ratio: 2.129032258064516
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 67 wins
+	TempoAgent with deck spellWarlock.hsdeck: 32 wins
+	 ratio: 2.09375
+DEBUG:root:
+
+TempoAgent versus TempoAgent: 494 to 393
+
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 52 wins
+	ControlAgent with deck rampDruid.hsdeck: 48 wins
+	 ratio: 1.0833333333333333
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 68 wins
+	ControlAgent with deck valueMage.hsdeck: 32 wins
+	 ratio: 2.125
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 70 wins
+	ControlAgent with deck spellWarlock.hsdeck: 28 wins
+	 ratio: 2.5
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 26 wins
+	ControlAgent with deck rampDruid.hsdeck: 73 wins
+	 ratio: 0.3561643835616438
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 61 wins
+	ControlAgent with deck valueMage.hsdeck: 39 wins
+	 ratio: 1.564102564102564
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 59 wins
+	ControlAgent with deck spellWarlock.hsdeck: 40 wins
+	 ratio: 1.475
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 37 wins
+	ControlAgent with deck rampDruid.hsdeck: 60 wins
+	 ratio: 0.6166666666666667
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 58 wins
+	ControlAgent with deck valueMage.hsdeck: 40 wins
+	 ratio: 1.45
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 60 wins
+	ControlAgent with deck spellWarlock.hsdeck: 38 wins
+	 ratio: 1.5789473684210527
+DEBUG:root:
+
+TempoAgent versus ControlAgent: 491 to 398
+
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 57 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 43 wins
+	 ratio: 1.3255813953488371
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 76 wins
+	AggressiveAgent with deck valueMage.hsdeck: 23 wins
+	 ratio: 3.3043478260869565
+DEBUG:root:TempoAgent with deck rampDruid.hsdeck: 83 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 16 wins
+	 ratio: 5.1875
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 17 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 83 wins
+	 ratio: 0.20481927710843373
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 47 wins
+	AggressiveAgent with deck valueMage.hsdeck: 50 wins
+	 ratio: 0.94
+DEBUG:root:TempoAgent with deck valueMage.hsdeck: 61 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 39 wins
+	 ratio: 1.564102564102564
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 39 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 57 wins
+	 ratio: 0.6842105263157895
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 59 wins
+	AggressiveAgent with deck valueMage.hsdeck: 41 wins
+	 ratio: 1.4390243902439024
+DEBUG:root:TempoAgent with deck spellWarlock.hsdeck: 65 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 33 wins
+	 ratio: 1.9696969696969697
+DEBUG:root:
+
+TempoAgent versus AggressiveAgent: 504 to 385
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 80 wins
+	RandomAgent with deck rampDruid.hsdeck: 20 wins
+	 ratio: 4.0
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 89 wins
+	RandomAgent with deck valueMage.hsdeck: 11 wins
+	 ratio: 8.090909090909092
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 89 wins
+	RandomAgent with deck spellWarlock.hsdeck: 10 wins
+	 ratio: 8.9
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 44 wins
+	RandomAgent with deck rampDruid.hsdeck: 55 wins
+	 ratio: 0.8
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 64 wins
+	RandomAgent with deck valueMage.hsdeck: 33 wins
+	 ratio: 1.9393939393939394
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 70 wins
+	RandomAgent with deck spellWarlock.hsdeck: 28 wins
+	 ratio: 2.5
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 67 wins
+	RandomAgent with deck rampDruid.hsdeck: 33 wins
+	 ratio: 2.0303030303030303
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 79 wins
+	RandomAgent with deck valueMage.hsdeck: 19 wins
+	 ratio: 4.157894736842105
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 84 wins
+	RandomAgent with deck spellWarlock.hsdeck: 14 wins
+	 ratio: 6.0
+DEBUG:root:
+
+ControlAgent versus RandomAgent: 666 to 223
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 51 wins
+	TempoAgent with deck rampDruid.hsdeck: 49 wins
+	 ratio: 1.0408163265306123
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 72 wins
+	TempoAgent with deck valueMage.hsdeck: 28 wins
+	 ratio: 2.5714285714285716
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 72 wins
+	TempoAgent with deck spellWarlock.hsdeck: 26 wins
+	 ratio: 2.769230769230769
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 23 wins
+	TempoAgent with deck rampDruid.hsdeck: 77 wins
+	 ratio: 0.2987012987012987
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 55 wins
+	TempoAgent with deck valueMage.hsdeck: 45 wins
+	 ratio: 1.2222222222222223
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 56 wins
+	TempoAgent with deck spellWarlock.hsdeck: 44 wins
+	 ratio: 1.2727272727272727
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 30 wins
+	TempoAgent with deck rampDruid.hsdeck: 68 wins
+	 ratio: 0.4411764705882353
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 60 wins
+	TempoAgent with deck valueMage.hsdeck: 39 wins
+	 ratio: 1.5384615384615385
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 59 wins
+	TempoAgent with deck spellWarlock.hsdeck: 41 wins
+	 ratio: 1.4390243902439024
+DEBUG:root:
+
+ControlAgent versus TempoAgent: 478 to 417
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 50 wins
+	ControlAgent with deck rampDruid.hsdeck: 50 wins
+	 ratio: 1.0
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 80 wins
+	ControlAgent with deck valueMage.hsdeck: 19 wins
+	 ratio: 4.2105263157894735
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 71 wins
+	ControlAgent with deck spellWarlock.hsdeck: 29 wins
+	 ratio: 2.4482758620689653
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 22 wins
+	ControlAgent with deck rampDruid.hsdeck: 78 wins
+	 ratio: 0.28205128205128205
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 56 wins
+	ControlAgent with deck valueMage.hsdeck: 43 wins
+	 ratio: 1.302325581395349
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 48 wins
+	ControlAgent with deck spellWarlock.hsdeck: 46 wins
+	 ratio: 1.0434782608695652
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 35 wins
+	ControlAgent with deck rampDruid.hsdeck: 63 wins
+	 ratio: 0.5555555555555556
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 58 wins
+	ControlAgent with deck valueMage.hsdeck: 41 wins
+	 ratio: 1.4146341463414633
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 62 wins
+	ControlAgent with deck spellWarlock.hsdeck: 37 wins
+	 ratio: 1.6756756756756757
+DEBUG:root:
+
+ControlAgent versus ControlAgent: 482 to 406
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 57 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 43 wins
+	 ratio: 1.3255813953488371
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 80 wins
+	AggressiveAgent with deck valueMage.hsdeck: 20 wins
+	 ratio: 4.0
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 77 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 22 wins
+	 ratio: 3.5
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 19 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 81 wins
+	 ratio: 0.2345679012345679
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 53 wins
+	AggressiveAgent with deck valueMage.hsdeck: 44 wins
+	 ratio: 1.2045454545454546
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 51 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 46 wins
+	 ratio: 1.108695652173913
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 37 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 59 wins
+	 ratio: 0.6271186440677966
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 56 wins
+	AggressiveAgent with deck valueMage.hsdeck: 43 wins
+	 ratio: 1.302325581395349
+DEBUG:root:ControlAgent with deck spellWarlock.hsdeck: 53 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 45 wins
+	 ratio: 1.1777777777777778
+DEBUG:root:
+
+ControlAgent versus AggressiveAgent: 483 to 403
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 81 wins
+	RandomAgent with deck rampDruid.hsdeck: 18 wins
+	 ratio: 4.5
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 95 wins
+	RandomAgent with deck valueMage.hsdeck: 5 wins
+	 ratio: 19.0
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 95 wins
+	RandomAgent with deck spellWarlock.hsdeck: 3 wins
+	 ratio: 31.666666666666668
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 42 wins
+	RandomAgent with deck rampDruid.hsdeck: 58 wins
+	 ratio: 0.7241379310344828
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 60 wins
+	RandomAgent with deck valueMage.hsdeck: 40 wins
+	 ratio: 1.5
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 71 wins
+	RandomAgent with deck spellWarlock.hsdeck: 28 wins
+	 ratio: 2.5357142857142856
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 64 wins
+	RandomAgent with deck rampDruid.hsdeck: 35 wins
+	 ratio: 1.8285714285714285
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 84 wins
+	RandomAgent with deck valueMage.hsdeck: 16 wins
+	 ratio: 5.25
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 93 wins
+	RandomAgent with deck spellWarlock.hsdeck: 6 wins
+	 ratio: 15.5
+DEBUG:root:
+
+AggressiveAgent versus RandomAgent: 685 to 209
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 51 wins
+	TempoAgent with deck rampDruid.hsdeck: 49 wins
+	 ratio: 1.0408163265306123
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 82 wins
+	TempoAgent with deck valueMage.hsdeck: 17 wins
+	 ratio: 4.823529411764706
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 82 wins
+	TempoAgent with deck spellWarlock.hsdeck: 17 wins
+	 ratio: 4.823529411764706
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 31 wins
+	TempoAgent with deck rampDruid.hsdeck: 69 wins
+	 ratio: 0.4492753623188406
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 60 wins
+	TempoAgent with deck valueMage.hsdeck: 38 wins
+	 ratio: 1.5789473684210527
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 56 wins
+	TempoAgent with deck spellWarlock.hsdeck: 42 wins
+	 ratio: 1.3333333333333333
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 44 wins
+	TempoAgent with deck rampDruid.hsdeck: 55 wins
+	 ratio: 0.8
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 60 wins
+	TempoAgent with deck valueMage.hsdeck: 40 wins
+	 ratio: 1.5
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 58 wins
+	TempoAgent with deck spellWarlock.hsdeck: 38 wins
+	 ratio: 1.5263157894736843
+DEBUG:root:
+
+AggressiveAgent versus TempoAgent: 524 to 365
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 55 wins
+	ControlAgent with deck rampDruid.hsdeck: 45 wins
+	 ratio: 1.2222222222222223
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 66 wins
+	ControlAgent with deck valueMage.hsdeck: 32 wins
+	 ratio: 2.0625
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 79 wins
+	ControlAgent with deck spellWarlock.hsdeck: 20 wins
+	 ratio: 3.95
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 29 wins
+	ControlAgent with deck rampDruid.hsdeck: 71 wins
+	 ratio: 0.4084507042253521
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 57 wins
+	ControlAgent with deck valueMage.hsdeck: 42 wins
+	 ratio: 1.3571428571428572
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 59 wins
+	ControlAgent with deck spellWarlock.hsdeck: 41 wins
+	 ratio: 1.4390243902439024
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 44 wins
+	ControlAgent with deck rampDruid.hsdeck: 54 wins
+	 ratio: 0.8148148148148148
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 62 wins
+	ControlAgent with deck valueMage.hsdeck: 36 wins
+	 ratio: 1.7222222222222223
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 59 wins
+	ControlAgent with deck spellWarlock.hsdeck: 38 wins
+	 ratio: 1.5526315789473684
+DEBUG:root:
+
+AggressiveAgent versus ControlAgent: 510 to 379
+
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 50 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 49 wins
+	 ratio: 1.0204081632653061
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 72 wins
+	AggressiveAgent with deck valueMage.hsdeck: 27 wins
+	 ratio: 2.6666666666666665
+DEBUG:root:AggressiveAgent with deck rampDruid.hsdeck: 80 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 20 wins
+	 ratio: 4.0
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 20 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 79 wins
+	 ratio: 0.25316455696202533
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 58 wins
+	AggressiveAgent with deck valueMage.hsdeck: 41 wins
+	 ratio: 1.4146341463414633
+DEBUG:root:AggressiveAgent with deck valueMage.hsdeck: 54 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 43 wins
+	 ratio: 1.255813953488372
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 38 wins
+	AggressiveAgent with deck rampDruid.hsdeck: 60 wins
+	 ratio: 0.6333333333333333
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 56 wins
+	AggressiveAgent with deck valueMage.hsdeck: 42 wins
+	 ratio: 1.3333333333333333
+DEBUG:root:AggressiveAgent with deck spellWarlock.hsdeck: 64 wins
+	AggressiveAgent with deck spellWarlock.hsdeck: 33 wins
+	 ratio: 1.9393939393939394
+DEBUG:root:
+
+AggressiveAgent versus AggressiveAgent: 492 to 394
+

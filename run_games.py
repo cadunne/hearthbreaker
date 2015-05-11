@@ -60,9 +60,9 @@ def do_stuff(agent1, agent2, d1, d2):
 
         del new_game
 
-        if _count % 50 == 0:
-            print("---- game #{} ----".format(_count))
-            print("lwins: " + str(lwins) + ", rwins: "+ str(rwins))
+        # if _count % 50 == 0:
+            # print("---- game #{} ----".format(_count))
+            # print("lwins: " + str(lwins) + ", rwins: "+ str(rwins))
 
 
     
@@ -70,22 +70,19 @@ def do_stuff(agent1, agent2, d1, d2):
     deck2 = load_deck(d2)
     game = Game([deck1, deck2], [agent1, agent2])
 
-    print(timeit.timeit(play_game, 'gc.enable()', number=5))
+    print(timeit.timeit(play_game, 'gc.enable()', number=100))
 
-    returnString = str(type(game.players[0].agent)) + " with deck " + d1 + ": " + str(lwins) + " wins"
-    returnString += '\n\t' + str(type(game.players[1].agent)) + " with deck " + d2 + ": " + str(rwins) + " wins"
+    returnString = str(game.players[0].agent) + " with deck " + d1 + ": " + str(lwins) + " wins"
+    returnString += '\n\t' + str(game.players[1].agent) + " with deck " + d2 + ": " + str(rwins) + " wins"
     if rwins != 0:
         returnString += '\n\t ratio: ' + str(lwins/rwins)
     
-    return returnString
+    return (returnString, lwins, rwins)
 
 if __name__ == "__main__":
     rd = "rampDruid.hsdeck"
     vm = "valueMage.hsdeck"
-    bh = "beastHunter.hsdeck"
-
-
-    logstring = do_stuff(TempoAgent(), ControlAgent(), rd, rd)
+    sw = "zooLock.hsdeck"
 
 
     ra = RandomAgent()
@@ -95,32 +92,62 @@ if __name__ == "__main__":
 
     agentList = [ra, ta, ca, aa]
 
-    LOG_FILENAME = 'match_results.log'
+    LOG_FILENAME = '_lolresults4.log'
     logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG, filemode = 'w')
 
-    for x in range(0, 4):
+    for x in range(3, 4):
 
-        ra = RandomAgent()
-        ta = TempoAgent()
-        ca = ControlAgent()
-        aa = AggressiveAgent()
 
-        agentList = [ra, ta, ca, aa]
+        for y in range(0,4):
 
-        a1 = agentList[x]
-        a2 = agentList[0]
+            wins = 0
+            losses = 0
 
-        logstring = do_stuff(a1, a2, rd, rd)
-        logging.debug(logstring)
+            a1 = agentList[x]
+            a2 = agentList[y]
 
-        logstring = do_stuff(a1, a2, rd, vm)
-        logging.debug(logstring)
 
-        logstring = do_stuff(a1, a2, vm, rd)
-        logging.debug(logstring)
+            logstring = do_stuff(a1, a2, rd, rd)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
 
-        logstring = do_stuff(a1, a2, vm, vm)
-        logging.debug(logstring)
+            logstring = do_stuff(a1, a2, rd, vm)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, rd, sw)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, vm, rd)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, vm, vm)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, vm, sw)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, sw, rd)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, sw, vm)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            logstring = do_stuff(a1, a2, sw, sw)
+            logging.debug(logstring[0])
+            wins += logstring[1]; losses += logstring[2]
+
+            summarystring = "\n\n" + str(a1) + " versus " + str(a2) + ": " + str(wins) + " to "+str(losses)+'\n'
+            logging.debug(summarystring)
+
+
+
 
 
 

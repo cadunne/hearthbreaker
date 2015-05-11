@@ -1,0 +1,80 @@
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 75 wins
+	RandomAgent with deck rampDruid.hsdeck: 25 wins
+	 ratio: 3.0
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 88 wins
+	RandomAgent with deck valueMage.hsdeck: 12 wins
+	 ratio: 7.333333333333333
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 64 wins
+	RandomAgent with deck zooLock.hsdeck: 35 wins
+	 ratio: 1.8285714285714285
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 63 wins
+	RandomAgent with deck rampDruid.hsdeck: 37 wins
+	 ratio: 1.7027027027027026
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 72 wins
+	RandomAgent with deck valueMage.hsdeck: 28 wins
+	 ratio: 2.5714285714285716
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 55 wins
+	RandomAgent with deck zooLock.hsdeck: 43 wins
+	 ratio: 1.2790697674418605
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 95 wins
+	RandomAgent with deck rampDruid.hsdeck: 5 wins
+	 ratio: 19.0
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 97 wins
+	RandomAgent with deck valueMage.hsdeck: 2 wins
+	 ratio: 48.5
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 90 wins
+	RandomAgent with deck zooLock.hsdeck: 10 wins
+	 ratio: 9.0
+DEBUG:root:
+
+ControlAgent versus RandomAgent: 699 to 197  3.55
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 44 wins
+	TempoAgent with deck rampDruid.hsdeck: 56 wins
+	 ratio: 0.7857142857142857
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 69 wins
+	TempoAgent with deck valueMage.hsdeck: 30 wins
+	 ratio: 2.3
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 18 wins
+	TempoAgent with deck zooLock.hsdeck: 82 wins
+	 ratio: 0.21951219512195122
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 47 wins
+	TempoAgent with deck rampDruid.hsdeck: 53 wins
+	 ratio: 0.8867924528301887
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 55 wins
+	TempoAgent with deck valueMage.hsdeck: 45 wins
+	 ratio: 1.2222222222222223
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 17 wins
+	TempoAgent with deck zooLock.hsdeck: 83 wins
+	 ratio: 0.20481927710843373
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 87 wins
+	TempoAgent with deck rampDruid.hsdeck: 13 wins
+	 ratio: 6.6923076923076925
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 93 wins
+	TempoAgent with deck valueMage.hsdeck: 7 wins
+	 ratio: 13.285714285714286
+DEBUG:root:ControlAgent with deck zooLock.hsdeck: 52 wins
+	TempoAgent with deck zooLock.hsdeck: 46 wins
+	 ratio: 1.1304347826086956
+DEBUG:root:
+
+ControlAgent versus TempoAgent: 482 to 415 1.16
+
+
+VOID VOID
+
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 54 wins
+	ControlAgent with deck rampDruid.hsdeck: 45 wins
+	 ratio: 1.2
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 70 wins
+	ControlAgent with deck valueMage.hsdeck: 30 wins
+	 ratio: 2.3333333333333335
+DEBUG:root:ControlAgent with deck rampDruid.hsdeck: 19 wins
+	ControlAgent with deck zooLock.hsdeck: 81 wins
+	 ratio: 0.2345679012345679
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 33 wins
+	ControlAgent with deck rampDruid.hsdeck: 67 wins
+	 ratio: 0.4925373134328358
+DEBUG:root:ControlAgent with deck valueMage.hsdeck: 67 wins
+	ControlAgent with deck valueMage.hsdeck: 33 wins
+	 ratio: 2.0303030303030303
